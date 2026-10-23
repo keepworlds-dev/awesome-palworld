@@ -146,6 +146,10 @@ https://github.com/xNul/palworld-host-save-fix
 
 https://github.com/cheahjs/palworld-save-tools
 
+Palworld Save Converter：联机存档转专用服务器（或反向），房主角色、公会、帕鲁归属、帕鲁终端与箱子密码锁一并迁移；网页本地运行、不上传，支持 1.0 的 Oodle（PlM）存档，开源 GPL-3.0 / Move a co-op world to a dedicated server (or back) without losing the host's character; runs in the browser, supports Palworld 1.0 (Oodle) saves, GPL-3.0
+
+https://github.com/keepworlds-dev/palworld-save-converter
+
 ### 作弊
 
 由于目前游戏才发布、反作弊基本没有、等待
