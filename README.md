@@ -102,6 +102,10 @@ docker logs -f pal
 
 https://github.com/knva/PalWorld_server_config
 
+Palworld 服务器设置生成器：生成或修改 PalWorldSettings.ini，每项设置附说明，四档难度预设，含密码、端口、RCON 与 REST API 等自建服专用项；可导入现有配置文件，只改它管理的设置、其余原样保留，并提示非法字符和越界数值；网页本地运行、不上传 / Palworld server settings generator — build or edit PalWorldSettings.ini with every setting explained, four difficulty presets, import of your existing file, and checks for unsafe characters and out-of-range values; runs in the browser
+
+https://www.keepworlds.com/tools/palworld-server-settings-generator?utm_source=github&utm_medium=referral&utm_campaign=palworld_2610_awesome_palworld
+
 建议设置
 
 ```
